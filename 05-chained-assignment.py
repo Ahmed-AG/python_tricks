@@ -1,9 +1,11 @@
-x = y = z = 0
+print("test 1")
+
+x = y = z = 15
 print(x)
 print(y)
 print(z)
 
-# Dragons
+print("test 2")
 x = y = []
 x.append(5)
 print(x)
