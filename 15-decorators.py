@@ -17,8 +17,9 @@ def print_arg(fn):
   return print_fn
 
 print_square2 = print_arg(square)
-print_cube = print_arg(lambda x: x**3)
 print(print_square2(5))
+
+print_cube = print_arg(lambda x: x**3)
 print(print_cube(5))
 
 

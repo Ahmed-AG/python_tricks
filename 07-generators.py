@@ -16,7 +16,6 @@ def new_range(start, stop, step):
     i += step
 
 print(old_range(0, 10, 1))
-
 print(new_range(0, 10, 1))
 for v in new_range(0, 10, 1):
   print(v)
