@@ -1,4 +1,3 @@
-#07-generators.py
 def old_range(start, stop, step):
   l = []
   i = start

@@ -1,4 +1,3 @@
-#f-strings
 
 new = "easier"
 old = "harder"

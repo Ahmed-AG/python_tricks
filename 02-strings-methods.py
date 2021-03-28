@@ -1,4 +1,3 @@
-#02-strings-methods
 
 print("Remove the spaces at the end.     ".strip())
 print("Remove the newline at the end\n".rstrip())

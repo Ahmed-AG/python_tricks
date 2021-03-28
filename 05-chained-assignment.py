@@ -1,4 +1,3 @@
-#05-chained-assignment.py
 x = y = z = 0
 print(x)
 print(y)

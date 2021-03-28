@@ -1,4 +1,3 @@
-#04-private-functions.py
 class Example:
   def p(self):
     pass

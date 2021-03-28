@@ -1,4 +1,3 @@
-#06-chained-comparison.py
 x = 6
 
 if x > 5 and x < 10:
