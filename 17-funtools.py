@@ -12,15 +12,7 @@ def fib(n):
     return fib(n - 1) + fib(n - 2)
 
 print(fib(20))
-
-#@lru_cache()
-#def fib(n):
-#  if n == 1 or n == 2:
-#    return 1
-#  else:
-#    return fib(n - 1) + fib(n - 2)
-
-#fib(200)
+print(fib(200))
 
 #Partial: Return a new partial object which when called will behave like func called with the positional arguments args and keyword arguments keywords. If more arguments are supplied to the call, they are appended to args. If additional keyword arguments are supplied, they extend and override keywords.
 
